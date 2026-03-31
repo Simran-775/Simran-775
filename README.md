@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/simrandadiala775/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:simran.dadiala05@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=simran.dadiala05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -52,7 +52,7 @@
 |--------|-------------|------------|
 | [🛒 Ecommerce Website](https://github.com/Simran-775/Ecommerce-Project) | Full dynamic ecommerce site with product listing, cart, and backend | React, Node.js, Express, MongoDB |
 | [🤖 Classification Model](https://github.com/Simran-775) | ML classification model built from scratch | Python, Scikit-learn, Pandas |
-
+| [EMOJI Project Name](https://github.com/Simran-775/REPO-NAME) | One line description | Tech used |
 ---
 
 ### 📊 GitHub Stats
